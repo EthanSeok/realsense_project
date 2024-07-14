@@ -4,13 +4,12 @@ fonttools==4.53.0
 importlib_resources==6.4.0
 kiwisolver==1.4.5
 matplotlib==3.9.0
-numpy @ file:///D:/bld/numpy_1653325517362/work
+numpy
 opencv-python==4.8.0.74
 packaging==24.1
 pillow==10.3.0
 pyglet==1.5.27
 pyparsing==3.1.2
-pyrealsense2 @ file:///C:/code/real_sense_prj/pyrealsense2-2.55.1.6486-cp39-cp39-win_amd64.whl#sha256=5cbede3cd35946f3051ae6df42619ea01419c58379533c596bbad5dbf648c25b
 python-dateutil==2.9.0.post0
 six==1.16.0
 ultralytics==8.0.180
